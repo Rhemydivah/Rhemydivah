@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rhemydivah. My full name is Oluremi Ogunwale. I am a digital marketer with focus on a content marketing, email-marketing, SEO, copywriting, and an aspiring data analyst. 
+- 👋 Hi, I’m @Rhemydivah. My full name is Oluremi Ogunwale. I am a digital marketer with focus on  content marketing, email-marketing, SEO, copywriting, and an aspiring data analyst. 
 - 👀 I’m interested in travel, politics, tech, movies, musics, Big data, and business topics.
 - 🌱 I’m currently learning data analytics on ALX-Udacity Nanodegree with focus on Python and SQL languages.
 - 💞️ I’m looking to take up positions that will allow me to combine my passion for the digital marketing and entertainment space with my data analyst skills. I am also looking to network with people in the data science industry and also collaborate on projects in the business, marketing, travel, tech, and entertainment industry.
